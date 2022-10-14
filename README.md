@@ -6,7 +6,7 @@
 
 - 🔗 [Demo Project](https://pouria-farahani-developer.github.io/infinity-slider/)
 
-- 👨‍💻 Developed by pouria farahani
+- 👨‍💻 Developed by pouria farahani and leila kefayati
 
 - 📆 Created - 2022-09-11
 
