@@ -1,4 +1,4 @@
-# infinity-slider
+# Infinity-Slider
 
 🎰 **HEY,What are you waiting for,start the game ??**
 
